@@ -1,0 +1,23 @@
+#navbar{
+    background-color: #00008b;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#title{
+    font-family:  'Courier New', Courier, monospace;
+    padding: 15px;
+    color: white;
+    
+}
+
+#div1{
+    float: left;
+    
+}
+
+#div2{
+    padding: 15px;
+}
+

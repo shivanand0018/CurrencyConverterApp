@@ -1,0 +1,35 @@
+#box{
+    width: 80%;
+    height: 200px;
+    border: 3px solid black;
+    margin: 20px auto;
+    padding: 40px;
+    border-radius: 50px;
+    box-shadow: 9px 28px 28px gray;
+}
+
+#title1{
+    text-align: center;
+    font-family: cursive;
+    padding: 10px;
+    text-decoration: underline;
+}
+
+#card{
+    display: flex;
+    justify-content: space-evenly
+}
+
+.input{
+    width: 300px;
+    height: 55px;
+}
+
+#button{
+    height: 50px;
+}
+
+#div2{
+    padding: 50px;
+    margin-left: 25px;
+}

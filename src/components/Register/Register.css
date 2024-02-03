@@ -1,0 +1,19 @@
+#registerForm{
+    background-color: white;
+    width: 35%;
+    margin: 90px auto;
+    height: 65vh;
+    border-radius: 25px;
+    
+}
+
+#form1{
+    padding: 30px;
+    display: grid;
+    
+}
+
+.inputField{
+    width: 400px;
+    
+}
