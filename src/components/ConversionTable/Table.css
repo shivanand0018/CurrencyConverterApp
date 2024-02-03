@@ -16,7 +16,7 @@
 {
     text-align: center;
     background-color: aquamarine;
-    border-radius:10px;
+    border-top-right-radius: 15px;
 }
 
 #table{
